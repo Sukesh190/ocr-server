@@ -10,6 +10,10 @@
     "tslint": "tslint --project tsconfig.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sukesh190/ocr-server.git"
+  },
   "author": "sukesh",
   "license": "ISC",
   "dependencies": {
